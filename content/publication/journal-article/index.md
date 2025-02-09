@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Unconditional Endowment and Acceptance of Taxes: A Lab-in-the-Field Experiment on UBI with Unemployed"
 authors:
 - admin
-- Robert Ford
+- Nhat Luong
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-31T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,10 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A universal basic income (UBI) would be a guaranteed income floor for both the employed and the unemployed, from which economic theory predicts a gain in bargaining power and a disincentive to work. For high earners, the increase in taxes necessary to fund this program would decrease their motivation to earn. To assess these aspects, we conducted a lab-in-the-field experiment at a State Employment Service office in Spain. The unemployed participants received either an initial unconditional endowment, framed under the logic of the solidarity condition of UBI (UBI treatment) – to examine the taxes’ effect – or as a participation fee (FEE) or no initial endowment (NONUBI). Subsequently, they faced one default randomized task from a set of four paid real-effort tasks. To study bargaining power, they could change the task up to three times and/or skip all tasks and conclude the experiment. In the FEE treatment, they yielded the highest earnings. While we did not find a statistically significant difference in earnings between the FEE and the NON-UBI treatments, the UBI differed from the NON-UBI and FEE. A likely reason could be a crowding-out of motivation by the pressure to reciprocate without believing in other participants’ deservingness of the UBI. In addition, the results reveal that females change tasks more frequently than males.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.degruyter.com/document/doi/10.1515/bis-2023-0003/html
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''

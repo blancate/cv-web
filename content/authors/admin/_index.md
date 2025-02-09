@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Blanca Tena Estrada
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Blanca
+last_name: Tena Estrada
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+ + icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,82 +20,82 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Kassel
+    url: https://www.uni-kassel.de/fb07/ivwl/mikrooekonomik/teamli
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:blanca.tena@uni-kassel.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: brands/bsky
+    url: https://bsky.app/profile/blancate.bsky.social
+ # - icon: brands/instagram
+   # url: https://www.instagram.com/
+  #- icon: brands/github
+   # url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/blanca-tena-estrada-11b4b09a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.de/citations?user=9NPfuyYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6783-5817
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Behavioral Economics
+  - Environmental Economics
+  - Experimental Economics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Behavioral Economics
+    institution: University of Kassel
+    date_start: 2020-01-08
+    date_end: 2025-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Behavioral Economics applied to unequality_. Supervised by [Prof Björn Frank](https://example.com). Presented papers at ESA, IAREP, SABE, 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Msc. Economic Behavior and Governance
+    institution: Univeristy of Kassel
+    date_start: 2016-10-16
+    date_end: 2018-11-31
+   # summary: |
+      #Grade: 1.8
 
-      Courses included:
+      #Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: BSc Economics
+    institution: University of Vigo
+    date_start: 2011-09-11
+    date_end: 2015-07-20
+    #summary: |
+     # GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research fellow and lecturer
+    company_name: University of Kassel
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-01-08
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Consusltant 
     company_name: X
     company_url: ''
     company_logo: ''
@@ -112,15 +112,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Stata
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Microsoft Word, Excel, Powerpoint
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: LaTeX
         description: ''
         percent: 40
         icon: circle-stack
@@ -132,10 +132,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Permaculture
         description: ''
         percent: 100
-        icon: cat
+        icon: plant
       - name: Photography
         description: ''
         percent: 80
@@ -144,43 +144,45 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Spanish
+    percent: 100
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Das Reinhard Selten-Stipendium
+    url: https://gfew.de/files/Sauermann/Selten-Stipendium_Ausschreibung.pdf
+    date: '2020-11-25'
+    awarder: GfeW
     icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    summary: Funding for executing the experiment " Influence of unconditional endowments in the performance of effort tasks"
+      
+ # - title: Blockchain Fundamentals
+  #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+   # date: '2023-07-01'
+    #awarder: edX
+    #icon: edx
+    #summary: |
+     # Learned:
+      #- Synthesize your own blockchain solutions
+      #- Gain an in-depth understanding of the specific mechanics of Bitcoin
+      #- Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  #- title: 'Object-Oriented Programming in R'
+   # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: https://www.datacamp.com
+    #date: '2023-01-21'
+    #awarder: datacamp
+    #icon: datacamp
+    #summary: |
+     # Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Blanca Tena Estrada is a dedicated research fellow and doctoral candidate at the Chair of Applied Microeconomics at the University of Kassel, Germany. Her journey in behavioral economics began at the University of Vigo, Spain, where her fascination with the subject sparked during her bachelor’s thesis research. Following her passion, Blanca pursued a Master’s degree in Behavioral Economics and Governance. Her research explores diverse issues such as charitable giving, cooperation, personal values, food choices, and economic coordination using various methods, from field and lab experiments to experimental surveys and observational data. 
